@@ -166,7 +166,7 @@ The output includes the final aesthetic level L0–L5, the level interval, the s
 
 ### Visual text rendering scoring (`evaluation/Text/`)
 
-**Method overview**: Two steps—first recognize the text in the image, then compute metrics against the GT text (edit similarity, sentence accuracy, character F1, etc.). The recognition step uses both a VLM route (TextPecker; this work uses **TextPecker-8B-InternVL3**) and a conventional OCR route.
+**Method overview**: Two steps—first recognize the text in the image, then compute metrics against the GT text (edit similarity, sentence accuracy, character F1, etc.). The recognition step uses both a VLM route ([TextPecker](https://github.com/CIawevy/TextPecker); this work uses **TextPecker-8B-InternVL3**) and a conventional OCR route.
 
 **Usage**:
 
