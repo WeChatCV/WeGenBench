@@ -255,21 +255,6 @@ Prompts may contain real brand, work, organization, or person names. These are i
 
 ---
 
-## Citation
-
-If you find this work helpful for your research, please consider citing our paper:
-
-```bibtex
-@article{wegenbench,
-  title   = {},
-  author  = {},
-  journal = {},
-  year    = {}
-}
-```
-
----
-
 ## Contact Us
 
 If you have any questions or suggestions, feel free to reach out via GitHub Issues. We look forward to your feedback!
