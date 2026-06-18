@@ -1,0 +1,35 @@
+WeGenBench Dataset License
+==========================
+
+The benchmark data in this directory (the WeGenBench prompts, required-text
+annotations, tags, and difficulty labels) is licensed under the
+
+    Creative Commons Attribution-NonCommercial 4.0 International
+    (CC BY-NC 4.0) License.
+
+You are free to:
+  - Share  — copy and redistribute the material in any medium or format.
+  - Adapt  — remix, transform, and build upon the material.
+
+Under the following terms:
+  - Attribution  — You must give appropriate credit (cite WeGenBench),
+    provide a link to the license, and indicate if changes were made.
+  - NonCommercial — You may not use the material for commercial purposes.
+  - No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing
+    anything the license permits.
+
+Full legal text:
+    https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Human-readable summary:
+    https://creativecommons.org/licenses/by-nc/4.0/
+
+Notes:
+  - This license covers ONLY the dataset under this `data/` directory.
+    The source code in this repository is licensed separately under the
+    Apache License 2.0 (see the top-level `LICENSE` file).
+  - The prompts may reference real brand, work, organization, or person
+    names. These are included solely for academic evaluation purposes and
+    do not imply any authorization or endorsement by the respective owners.
+
+Copyright 2026 WeGenBench Authors.

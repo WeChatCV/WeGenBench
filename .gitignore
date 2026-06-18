@@ -1,0 +1,19 @@
+# CoT 评分模型权重（体积大，不随 GitHub 分发；请从 HuggingFace 下载到此目录）
+evaluation/Consistency/CoT/model/checkpoint/
+
+# 大模型权重通用后缀（避免误提交）
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 系统/编辑器
+.DS_Store
+.idea/
+.vscode/
