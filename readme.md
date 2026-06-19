@@ -5,7 +5,7 @@
 <p align="center"><b>A Multidimensional Diagnostic Benchmark towards Text-to-Image Model Optimization</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="arXiv">
+  <a href="https://arxiv.org/abs/2606.20100"><img src="https://img.shields.io/badge/arXiv-2606.20100-b31b1b.svg" alt="arXiv"></a>
   <a href="https://huggingface.co/yinggzhang/WeGenBench-Consistency-COT"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-ffac2d.svg" alt="HuggingFace Model"></a>
 </p>
 
@@ -252,6 +252,24 @@ This repository is released under a **dual-license** scheme that governs the cod
 - **Scoring model**: released on [HuggingFace](https://huggingface.co/yinggzhang/WeGenBench-Consistency-COT) under the Apache-2.0 license (the base model is Qwen3-VL); see its model card for details.
 
 Prompts may contain real brand, work, organization, or person names. These are included solely for academic evaluation purposes and do not imply any authorization or endorsement by the respective owners.
+
+---
+
+## Citation
+
+If you find this work helpful for your research, please consider citing our paper:
+
+```bibtex
+@misc{liang2026wegenbenchmultidimensionaldiagnosticbenchmark,
+      title={WeGenBench: A Multidimensional Diagnostic Benchmark towards Text-to-Image Model Optimization},
+      author={Qian Liang and Xiaomin Li and Ying Zhang and Jia Xu and Lihao Ni and Hongrui Li and Jingjing Li and Jing Lyu and Chen Li},
+      year={2026},
+      eprint={2606.20100},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.20100},
+}
+```
 
 ---
 
