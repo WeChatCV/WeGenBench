@@ -19,6 +19,8 @@ WeGenBench is a multidimensional diagnostic benchmark for text-to-image (T2I) ge
 
 ## Overview
 
+> 如果你想快速了解我们的工作，可以看中文 Blog：[WeGenBench Blog](WeGenBench_Blog/WeGenBench_Blog.md)。
+
 Existing T2I evaluations typically suffer from two limitations: they either measure overall semantics only at a coarse granularity, or they are confined to a single-scenario task. They are also predominantly English-centric, overlooking the differentiated challenges posed by different languages and cultures (e.g., the stroke-level precision required for Chinese characters and the complex typography of long English text). To address these issues, WeGenBench is organized around two complementary pillars, **test prompts** and **evaluation methods**:
 
 - **Test prompts**: 4,000 prompts in total, divided into two major categories, **General** (general image scenarios) and **Text** (visual text rendering), with a strict Chinese–English balance (1,000 prompts for each "category × language" combination). Every prompt is annotated with a scenario category and multidimensional capability tags, supporting fine-grained, cross-dimensional capability diagnosis.
